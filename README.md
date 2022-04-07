@@ -7,7 +7,7 @@ The data that was used to obtain all the results was retrieved from the street d
 * In the file '5 Location suggestion', the notebook is shown for the detailed location analysis of crime. This shows the crime per zip code in a county. 
 * In the file '6 Model performance 1', the notebook is given for the performance analysis of some of the investigated models
 * In the file '7 Model performance 2', the notebook is given for the performance analysis of a couple more advanced models that we investigated. 
-* In the file 'Queried datasets', the CSV files can be found, which are required to run all of the mentioned notebooks. Relative paths are used in the notebooks, so when running, make sure that the CSV files have the proper name and that CSV files are stored in the same folder as the notebook. These files are the same files that are created in '2 Query Database'. 
+* In the file 'Query CSV Datasets', the CSV files can be found, which are required to run all of the mentioned notebooks. Relative paths are used in the notebooks, so when running, make sure that the CSV files have the proper name and that CSV files are stored in the same folder as the notebook. These files are the same files that are created in '2 Query Database'. 
 
 As for the requirements:
 * All the modules that need to be imported are included in the notebooks. Some modules require installing (note that it might be necessary to create a new environment, to properly install these modules). The modules that require installing are:
